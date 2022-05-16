@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/home/user/my folde/findjob/.env/bin/python3" "$0" "$@"
-' '''
+#!/home/shohrux/projects/findjob/.env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
